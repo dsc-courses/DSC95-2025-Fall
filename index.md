@@ -15,7 +15,7 @@ nav_order: 1
 <span style="display:block; margin-top:-10px;"></span>
 
 {: .mb-3 }
-**Class**: Mondays, 11-11:50AM, [York Hall] 4080A
+**Class**: Mondays, 11-11:50AM, York Hall 4080A
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 ---
@@ -32,7 +32,7 @@ nav_order: 1
 
 The schedule below will be updated throughout the quarter. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9W8dyi-kaY2nOLlX6854JKrip-Q2ktbP4X0W1iSO1UZVvYXqAH9_NTSexQMWxHg/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width='100%' height='1500' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9W8dyi-kaY2nOLlX6854JKrip-Q2ktbP4X0W1iSO1UZVvYXqAH9_NTSexQMWxHg/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## About
 
