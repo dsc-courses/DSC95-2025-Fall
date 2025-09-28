@@ -32,7 +32,7 @@ nav_order: 1
 
 The schedule below will be updated throughout the quarter. 
 
-<iframe width='70%' height='800' max-width: 70% margin: 0 auto; display: block; src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9W8dyi-kaY2nOLlX6854JKrip-Q2ktbP4X0W1iSO1UZVvYXqAH9_NTSexQMWxHg/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width='70%' height='800'  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9W8dyi-kaY2nOLlX6854JKrip-Q2ktbP4X0W1iSO1UZVvYXqAH9_NTSexQMWxHg/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## About
 
