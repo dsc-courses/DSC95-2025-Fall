@@ -56,7 +56,7 @@ We will communicate with each other through Slack. Reach out to the instructor i
 
 DSC 95 is graded P/NP. There are three things you need to do to pass:
 
-1. **Attend and participate** in all DSC 95 class sessions (Mondays at 10AM in Warren Lecture Hall 2112).
+1. **Attend and participate** in all DSC 95 class sessions (Mondays at 11AM in York Hall 4080A).
     - This is a discussion-based class, so attendance **and participation** are mandatory. (How can you expect your students to be engaged if you're not? 😉)
     - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let the instructor know in advance on Slack.        - You can miss at most one class session and still pass.
 1. **Complete weekly readings and homework assignments**, usually due on Fridays at 11:59PM.
