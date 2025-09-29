@@ -3,7 +3,7 @@ name: Kate Zhou
 role: Tutor
 pronouns: she/her
 email: yuz235@ucsd.edu
-photo: assets/staff-images/kate.png
+photo: assets/staff-images/kate.jpg
 ---
 Hi, I am Kate Zhou, a fourth-year student majoring in Data Science and Math-Applied Science. 
 
