@@ -1,8 +1,8 @@
 ---
-name: Jack Determan
+name: Anish Kasam
 role: Tutor
 pronouns: he/him
-email: jodeterman@ucsd.edu
-photo: assets/staff-images/jack.png
+email: akasam@ucsd.edu
+photo: assets/staff-images/anish.png
 ---
-**Classes tutored**: DSC 10, 40A
+Hi, my name is Anish, and I’m a fourth year data science and math-cs major. I’m originally from the Bay Area (Dublin). In my free time, I like to lift, hoop, and watch documentaries
