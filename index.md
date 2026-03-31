@@ -56,7 +56,7 @@ DSC 95 is graded P/NP. There are three things you need to do to pass:
 1. **Attend and participate** in all DSC 95 class sessions (Wed at 1:00PM in SOLIS 109).
     - This is a discussion-based class, so attendance **and participation** are mandatory. (How can you expect your students to be engaged if you're not? 😉)
     - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let the instructor know in advance on Slack.        - You can miss at most one class session and still pass.
-1. **Complete weekly readings and homework assignments**, usually due on Wed at 11:59PM.
+1. **Complete weekly readings and homework assignments**, usually due on Wed at 11:59AM.
     - Each week, we will provide you with readings and tasks to complete that should help you reflect on your time as a tutor so far. These will all be posted in the above [Schedule](#schedule).
     - Responses are graded on a 0-1-2 scale:
         - 0: Not submitted.
