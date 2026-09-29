@@ -15,7 +15,7 @@ nav_order: 1
 <span style="display:block; margin-top:-10px;"></span>
 
 {: .mb-3 }
-**Class**: Mondays, 11-11:50AM, York Hall 4080A
+**Class**: Wed, 9-9:50AM, Center 203
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 ---
@@ -36,6 +36,8 @@ The schedule below will be updated throughout the quarter.
 <iframe width='70%' height='800' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSumVZ63Mj41gv_czvmTd9rzD1h03KdkVxd08auvoptu9pE-2BtkrGiuDL496ffxQ/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
+
+
 ## About
 
 DSC 95 is a 2-unit, P/NP discussion-based course that is **required** of all first-time DSC tutors. The course is designed to guide new DSC tutors through their first quarter as a tutor. The specific topics we will cover are in the [Schedule](#schedule) above. 
@@ -53,10 +55,10 @@ We will communicate with each other through Slack. Reach out to the instructor i
 
 DSC 95 is graded P/NP. There are three things you need to do to pass:
 
-1. **Attend and participate** in all DSC 95 class sessions (Wed at 1:00PM in SOLIS 109).
+1. **Attend and participate** in all DSC 95 class sessions (Wed at 9:00AM in Center 203).
     - This is a discussion-based class, so attendance **and participation** are mandatory. (How can you expect your students to be engaged if you're not? 😉)
     - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let the instructor know in advance on Slack.        - You can miss at most one class session and still pass.
-1. **Complete weekly readings and homework assignments**, usually due on Wed at 11:59AM.
+1. **Complete weekly readings and homework assignments**, usually due on Tuesday at 11:59PM.
     - Each week, we will provide you with readings and tasks to complete that should help you reflect on your time as a tutor so far. These will all be posted in the above [Schedule](#schedule).
     - Responses are graded on a 0-1-2 scale:
         - 0: Not submitted.
